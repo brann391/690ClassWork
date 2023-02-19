@@ -9,7 +9,9 @@ This is *italics*.
 The following are blockquotes:
 
 > this is a blockquote
+> 
 > this is the second line of a blockquote
+> 
 > this is the third line of a blockquote
 
 I am using `git`.
@@ -39,6 +41,7 @@ An ordered list:
 1. this is the third item
 	- this is a sub item
 	- this is a jelly fish
+
 | Column 1 | Column 2 | Column 3 |
 |----------|----------|----------|
 | data     | data     | data     |
