@@ -1,0 +1,4 @@
+Here is my notes and thoughts for the class.
+
+So far we have created our own little OPAC that uses a basic LAMP Server. We have used several different types of software and coding to make this happen.
+We have used
