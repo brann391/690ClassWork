@@ -15,3 +15,11 @@ But it mostly took a while because I was trying to type in the code by hand, but
 Today we recreated the HTML and PHP files, as stated in our course.
 We also added additional records to our new OPAC to make sure we knew had to add to our records.
 
+## Create a Bare Bones Cataloging Module
+
+We created an index.html in a new directory so it can be accessible from the web.
+Created insert.php in that same directory.
+Secured our directory with a password.
+Added some more records using the web form.
+Retrieve said records.
+
