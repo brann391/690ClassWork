@@ -23,3 +23,8 @@ Secured our directory with a password.
 Added some more records using the web form.
 Retrieve said records.
 
+## Installing Wordpress
+
+We installed Wordpress and messed around with it.
+
+
