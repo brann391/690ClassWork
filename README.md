@@ -31,3 +31,7 @@ We installed Wordpress and messed around with it.
 
 We installed Omeka, but with less hand holding to reinforce our last week's coding.
 
+## Install Koha ILS
+
+Installed Koha. Had to reinstall Koha as I had done something to anger the coding gods.
+Now Koha is working as intended and I can access both the public and administration side.
