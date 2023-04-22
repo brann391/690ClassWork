@@ -27,4 +27,7 @@ Retrieve said records.
 
 We installed Wordpress and messed around with it.
 
+## Install Omeka
+
+We installed Omeka, but with less hand holding to reinforce our last week's coding.
 
